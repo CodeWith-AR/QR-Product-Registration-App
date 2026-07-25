@@ -53,29 +53,48 @@ lib/
 ```
 
 ---
+## 📸 App Screenshots
 
-## App Screenshots
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="assets/images/img.png" width="220"/><br>
+      <b>Splash Screen</b>
+    </td>
+    <td align="center">
+      <img src="assets/images/img_1.png" width="220"/><br>
+      <b>Login Screen</b>
+    </td>
+    <td align="center">
+      <img src="assets/images/img_20.png" width="220"/><br>
+      <b>Dashboard</b>
+    </td>
+  </tr>
 
-### Splash Screen
-![Splash Screen](assets/images/img.png)
+  <tr>
+    <td align="center">
+      <img src="assets/images/img_3.png" width="220"/><br>
+      <b>Product Registration</b>
+    </td>
+    <td align="center">
+      <img src="assets/images/img_4.png" width="220"/><br>
+      <b>Updated Dashboard</b>
+    </td>
+    <td align="center">
+      <img src="assets/images/img_5.png" width="220"/><br>
+      <b>QR Scanner</b>
+    </td>
+  </tr>
 
-### Login Screen
-![Login Screen](assets/images/img_1.png)
-
-### Dashboard
-![Dashboard](assets/images/img_2.png)
-
-### Product Registration
-![Product Registration](assets/images/img_3.png)
-
-### Updated Dashboard
-![Updated Dashboard](assets/images/img_4.png)
-
-### QR Scanner
-![QR Scanner](assets/images/img_5.png)
-
-###  Scan Product
-![Scan Product](assets/images/img_6.png)
+  <tr>
+    <td align="center">
+      <img src="assets/images/img_6.png" width="220"/><br>
+      <b>Scan Product</b>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 ---
 
@@ -84,7 +103,7 @@ lib/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/qr-product-registration-app.git
+git clone https://github.com/CodeWith-AR/qr-product-registration-app.git
 ```
 
 ### Navigate to the Project
@@ -139,7 +158,7 @@ android/app/google-services.json
 
 **Muhammad Abdur Rehman**
 
-- LinkedIn: https://www.linkedin.com/in/rehman090
+- LinkedIn: https://www.linkedin.com/in/rehman90
 - GitHub: https://github.com/CodeWith-AR
 
 ---
