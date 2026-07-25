@@ -66,7 +66,7 @@ lib/
       <b>Login Screen</b>
     </td>
     <td align="center">
-      <img src="assets/images/img_20.png" width="220"/><br>
+      <img src="assets/images/img_2.png" width="220"/><br>
       <b>Dashboard</b>
     </td>
   </tr>
